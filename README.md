@@ -1,2 +1,0 @@
-# new.tg.bot
-TGbot
